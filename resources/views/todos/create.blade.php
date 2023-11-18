@@ -47,7 +47,6 @@
             type="submit">ارسال</button>
         </form>
     </div>
-<p>salam</p>
 </body>
 
 </html>
