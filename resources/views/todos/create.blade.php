@@ -47,6 +47,9 @@
             type="submit">ارسال</button>
         </form>
     </div>
+    <div>a</div>
+    <div>b</div>
+    <div>c</div>
 </body>
 
 </html>
